@@ -1,5 +1,5 @@
 # 💫 Hi! Sou o Renato,
-🔭 Estudando Back-End e Análises de Dados<br>👯 Estou a procura de Estágio<br>🌱 Atualmente estou aprendendo em Python
+🔭 Estudando Análises de Dados<br>👯 Estou a procura de Estágio<br>🌱 Atualmente estou aprendendo em Python
 
 
 ## 🌐 Socials:
